@@ -25,6 +25,7 @@ configuration {
   mangenta:   #d886f3;
   cyan:       #6cdcf7;
   emphasis:   #50536b;
+  purple:     #A020F0;
   text:       #dfdfdf;
   text-alt:   #b2b2b2;
   fg:         #abb2bf;
