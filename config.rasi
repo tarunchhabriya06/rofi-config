@@ -159,3 +159,5 @@ configuration {
   }
 }
 @theme "/home/tarunc/.config/rofi/themes/OneDark.rasi"
+
+
