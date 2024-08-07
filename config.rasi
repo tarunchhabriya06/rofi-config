@@ -158,6 +158,6 @@ configuration {
       scrollbar: true;
   }
 }
-@theme "/home/tarunc/.config/rofi/themes/OneDark.rasi"
+@theme "~/.config/rofi/themes/OneDark.rasi"
 
 
